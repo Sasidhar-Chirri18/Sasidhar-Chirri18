@@ -2,6 +2,8 @@
 
 Passionate Software Engineer focused on building scalable backend systems and high-quality full-stack applications using Java and Spring Boot. I have hands-on experience developing RESTful applications, integrating databases with MySQL, and creating responsive user interfaces with HTML, CSS, JavaScript, and Tailwind CSS. I enjoy solving complex programming problems, learning emerging technologies, and building software that makes a meaningful impact.
 
+![](https://komarev.com/ghpvc/?username=Sasidhar-Chirri18&label=Profile%20Views&color=brightgreen&style=flat-square)
+
 ### 🤝 I'm looking to collaborate on
 - Java & Spring Boot Open Source Projects
 - Full Stack Web Development Projects
