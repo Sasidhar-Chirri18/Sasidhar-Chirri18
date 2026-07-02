@@ -1,16 +1,8 @@
-## 👋 Hi, I'm Sasidhar Chirri
+## Hi, I'm Sasidhar 👋
 
 Passionate Software Engineer focused on building scalable backend systems and high-quality full-stack applications using Java and Spring Boot. I have hands-on experience developing RESTful applications, integrating databases with MySQL, and creating responsive user interfaces with HTML, CSS, JavaScript, and Tailwind CSS. I enjoy solving complex programming problems, learning emerging technologies, and building software that makes a meaningful impact.
 
  ## ![](https://komarev.com/ghpvc/?username=Sasidhar-Chirri18&label=Profile%20Views&color=brightgreen&style=flat-square)
-
-### 🌱 I'm currently learning
-- Spring Security
-- Hibernate & JPA
-- RESTful API Development
-- Docker
-- Microservices
-- Data Structures & Algorithms
 
 ### 💬 Ask me about
 - Core Java
@@ -84,3 +76,11 @@ Passionate Software Engineer focused on building scalable backend systems and hi
 ![](https://github-readme-stats.shion.dev/api?username=Sasidhar-Chirri18&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sasidhar-Chirri18&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🌱 I'm currently learning
+- Spring Security
+- Hibernate & JPA
+- RESTful API Development
+- Docker
+- Microservices
+- Data Structures & Algorithms
