@@ -89,8 +89,12 @@ I enjoy solving coding challenges, building real-world applications, and learnin
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sasidhar-Chirri18&theme=transparent&show_icons=true&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Sasidhar-Chirri18&show_icons=true&theme=transparent&hide_border=false)
 
 ![](https://streak-stats.demolab.com?user=Sasidhar-Chirri18&theme=transparent&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasidhar-Chirri18&layout=compact&theme=transparent&hide_border=false)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sasidhar-Chirri18&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sasidhar-Chirri18&theme=github)
